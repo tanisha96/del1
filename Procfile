@@ -1,1 +1,1 @@
-web: python app: mongo_connect
+web: gunicorn app: mongo_connect
